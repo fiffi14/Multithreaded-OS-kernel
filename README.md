@@ -1,5 +1,5 @@
 # Multithreaded-OS-kernel
-OS1 project
+OS1 project - C/C++
 
 * Has a lot more code in C/C++ rather than in assembly as it says on the right.
 
